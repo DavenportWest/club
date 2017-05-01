@@ -1,0 +1,84 @@
+body  {
+background-image: url("images/science.png");
+background-size: 100% 100%;
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-position: center;
+background-color: #cccccc;
+}
+.blood1{
+  background-image: url("images/blood1.JPG");
+  text-align:center;
+  font-size: 15px
+  border: 1px solid #000000
+  color #000000
+  }
+  .blood2{
+    background-image: url("images/blood2.JPG");
+    text-align:center;
+    font-size: 15px
+    border: 1px solid #000000
+    color #000000
+    }
+    .blood3{
+      background-image: url("images/blood3.JPG");
+      text-align:center;
+      font-size: 15px
+      border: 1px solid #000000
+      color #000000
+      }
+      .blood4{
+        background-image: url("images/blood4.JPG");
+        text-align:center;
+        font-size: 15px
+        border: 1px solid #000000
+        color #000000
+        }
+        .blood5{
+          background-image: url("images/blood5.JPG");
+          text-align:center;
+          font-size: 15px
+          border: 1px solid #000000
+          color #000000
+          }
+          .blood6{
+            background-image: url("images/blood6.JPG");
+            text-align:center;
+            font-size: 15px
+            border: 1px solid #000000
+            color #000000
+            }
+            .blood7{
+              background-image: url("images/blood7.JPG");
+              text-align:center;
+              font-size: 15px
+              border: 1px solid #000000
+              color #000000
+              }
+              .blood8{
+                background-image: url("images/blood8.JPG");
+                text-align:center;
+                font-size: 15px
+                border: 1px solid #000000
+                color #000000
+                }
+                .blood9{
+                  background-image: url("images/blood9.JPG");
+                  text-align:center;
+                  font-size: 15px
+                  border: 1px solid #000000
+                  color #000000
+                  }
+                  .blood10{
+                    background-image: url("images/blood10.JPG");
+                    text-align:center;
+                    font-size: 15px
+                    border: 1px solid #000000
+                    color #000000
+                    }
+h4{
+  text-align:center;
+}
+h3{
+  text-align:center;
+}
